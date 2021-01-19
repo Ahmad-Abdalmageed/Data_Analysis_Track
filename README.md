@@ -23,3 +23,23 @@ Learn the data analysis process of questioning, wrangling, exploring,  analyzing
 
 Estimated time: 22 days
 
+#### Part 3
+
+***Practical Statistics***
+
+Learn how to apply inferential statistics and probability to important,  real-world scenarios, such as analyzing A/B tests and building  supervised learning models.
+
+- Project: [Analyze A/B Test Results](Practical_Statistics/) ... to be added
+
+Estimated time: 24 days
+
+#### Part 4
+
+***Data Visualization***
+
+Learn to apply sound design and data visualization principles to the data  analysis process. Learn how to use analysis and visualizations to tell a story with data.
+
+- Project: [Communicate Data Findings](Data_Visualization/) ... to be added
+
+Estimated time: 30 days
+
